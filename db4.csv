@@ -1,0 +1,114 @@
+"","Customer.Name","Sanctioned.Loan.Amount..in.Laksh.INR.","Salaried.Self.Employed","Profession","Total.Income.Score.out.of.24.","Total.CIBIL.Score.out.of.18.","Property.Chain.Score","Market.Value.of.Property.Score","Length.of.Stay.Score","Last.Registered.Book.1.Document.Score","Technical.Deviation.Score","Locality.Development.Score","Stability.Score","Proof.of.Income.Score","ABB.EMI.Score","Average.Monthly.Credit.Score","Number.of.Bounces.Score","Family.Score","Age.Score","Number.of.Financial.Co.Applicants","No..of.bounces","No..of.presentations.till.Feb..19."
+"1","Nishu Tayal",5.5,"Salaried","Teacher in DU",11,4,7,5,4,3,5,0,3,2,0,0,2,0,3,1,1,16
+"2","Pradeep Kumar",7,"Salaried","khalasi",11,15,4,3,4,3,5,0,3,4,2,4,2,1,1,1,0,29
+"3","Tej Narayan Rai",7.5,"Salaried","MTNL",13,15,4,3,4,3,9,2,3,6,0,3,2,0,1,2,1,29
+"4","Dipesh Kumar Verma",7.3,"Salaried","Senior executive in tour and travel company",18,18,9,3,4,3,9,2,6,4,2,4,2,3,3,0,1,28
+"5","Harish Sabharwal",8,"Salaried","Computer Operator",12,13,4,3,3,3,9,2,6,2,0,4,2,1,1,2,1,26
+"6","Vijender Kumar",10,"Salaried","Senior PDMS Designer",20,9,9,3,3,3,5,2,6,4,3,4,2,1,2,0,0,17
+"7","K.R Sharma",9.3,"Salaried","Upper Division Clerk",24,18,6,7,3,3,9,2,6,6,3,4,2,0,1,0,0,25
+"8","Prashant sharma",8,"Salaried","salaried/deputy manager",20,15,4,4,2,2,9,2,4,6,3,4,2,1,2,0,1,10
+"9","Rachit",9,"Self-Employed","Advertising",16,18,6,6,3,3,9,2,3,4,3,4,2,3,2,0,1,17
+"10","Sunil Kumar",6,"Salaried","Assistant Manager in Logistics Company",14,5,9,3,4,3,9,2,6,4,3,4,2,1,2,1,1,23
+"11","Anil Kumar",3.29,"Self-Employed","Shop selling cleaning items",13,18,9,9,4,3,0,2,6,3,3,4,2,0,1,1,1,23
+"12","Bakshish Kaur",4.5,"Salaried","Staff Nurse",11,18,1,9,4,3,9,2,3,4,0,4,2,1,3,1,1,22
+"13","Santosh Kumar Mishra",5,"Salaried","Sales and Service Manager",11,18,6,3,4,3,5,2,3,4,3,4,1,1,1,0,0,22
+"14","Himanshu Akarnia",9.25,"Salaried","Manager in Info Edge India",14,18,1,4,4,3,9,2,6,4,3,4,2,1,2,1,0,21
+"15","Jitender Singh",7,"Self-Employed","Manpower Service Provider",13,18,9,2,4,3,9,2,3,4,3,4,2,1,2,0,0,21
+"16","Kaushlender Parsad",8.5,"Self-Employed","Manufacturing of Printing work",13,9,9,3,3,3,9,2,3,4,3,4,2,0,1,0,0,19
+"17","Ashish sharma",5,"Self-Employed","Atta Chakki",19,13,6,5,3,3,9,2,6,3,3,4,2,0,2,1,1,19
+"18","Rajkumar",5,"Salaried","Tailor",13,14,7,2,4,3,5,2,6,3,0,0,2,1,3,0,1,19
+"19","Anjani kumar pandey",9,"Salaried","Senior Accountant",16,15,6,2,4,3,9,2,6,4,3,4,2,1,2,0,0,19
+"20","Dinesh Kumar",5.5,"Self-Employed","Document Writting",18,9,9,3,4,3,5,2,6,4,0,4,1,1,2,1,1,18
+"21","Neel Mani",15,"Salaried","salaried/IT",22,8,6,4,4,3,9,2,4,6,3,4,2,1,3,1,1,18
+"22","Harbans Singh",18,"Salaried","Teacher in DU",22,13,9,5,4,3,9,2,6,4,3,4,2,1,3,2,1,10
+"23","Shubham Singh",7,"Self-Employed","self employed/holiday package servce provider",22,12,4,3,3,3,9,2,6,4,3,4,2,0,3,1,1,18
+"24","Naresh kumar thakur",4,"Self-Employed","interior decorator and carpenter work",19,18,9,5,4,3,9,2,6,3,2,0,2,1,1,1,1,17
+"25","Mohd tarique",6.5,"Self-Employed","Moulding Work",11,18,6,6,4,3,9,2,3,4,2,4,2,1,2,0,1,17
+"26","Azamuddin",3,"Self-Employed","Printing/Graphic Designing",13,9,9,4,4,3,9,2,6,3,3,0,2,0,2,0,0,17
+"27","Baljeet Singh Matharu",1.7,"Salaried","Senior Executive in Private Firm",11,16,4,3,4,3,9,2,3,4,3,3,2,1,3,1,0,8
+"28","Rakesh Kaul",12,"Salaried","asst manager in healthcare firm",16,13,6,4,4,3,9,2,6,4,3,4,2,1,1,1,0,17
+"29","Shobit Rastogi",6.5,"Self-Employed","Wholesale supply of electrical goods",20,5,6,5,4,3,9,2,6,4,3,4,2,1,2,0,0,17
+"30","Amir Khan",10.4,"Salaried","business executive in healthcare ",18,18,6,3,2,2,9,2,6,4,2,4,2,1,3,1,0,17
+"31","Rakesh Gaur",10.5,"Salaried","Manager in Supertech Ltd",16,10,4,6,3,3,9,2,4,4,0,4,2,3,2,0,1,16
+"32","Sanjay Kumar Joshi",9.43,"Salaried","salaried/deputy general manager",18,16,6,4,4,3,9,2,6,4,3,3,2,1,1,0,0,16
+"33","Mayank Talwar",9.5,"Salaried","Senior Relationship Manager icici securities ltd",13,18,6,6,4,3,9,2,3,4,0,4,2,1,3,1,1,16
+"34","Inderjeet Singh",8,"Self-Employed","Providing Cab Facility",13,18,6,3,3,3,9,2,3,4,3,4,2,1,3,1,0,0
+"35","Ravish Rastogi",6.1,"Self-Employed","Garments",11,9,9,3,3,2,9,2,3,4,3,0,2,1,1,0,0,15
+"36","Nimish Ajmera",10,"Salaried","Working in export house",19,11,9,8,4,3,9,2,6,4,2,4,2,0,1,0,1,16
+"37","Anurag Parkash Ray",3.5,"Salaried","Asscoiate in Private Firm",15,16,6,2,4,2,5,2,3,4,2,0,2,1,3,0,0,15
+"38","Manoj Kumar Jha",5,"Salaried","Supervisor in Kanishk Export",10,18,6,2,4,3,9,2,6,4,0,3,2,0,1,0,1,15
+"39","pankaj singh",5.5,"Self-Employed","self employed/trading and repairing of all type mobile",10,18,9,3,4,3,9,2,6,4,2,3,2,1,3,1,0,15
+"40","Kalawati",1.25,"Salaried","Nurse",8,9,4,3,4,3,9,2,6,2,2,0,2,1,1,1,0,15
+"41","Dev Mani tiwari",3.5,"Self-Employed","self employed/Trading of Pan ,Gutka and Sarres",19,9,9,2,4,2,9,2,4,3,3,4,2,1,2,0,0,15
+"42","Kripal Singh",13,"Salaried","Northern Railways",16,9,6,9,4,3,5,2,6,4,3,4,2,0,3,1,0,14
+"43","Sudhir Chadhary",10,"Salaried","DGM",20,9,6,6,4,3,9,2,6,4,3,4,2,1,2,1,1,14
+"44","Daya Ram",8.5,"Salaried","asst. manager in Air india",18,10,9,5,2,2,9,2,6,4,2,3,2,0,1,1,0,14
+"45","Ravinder Singh",7,"Salaried","Clerk in office of Advocate",13,9,9,4,4,3,9,2,3,4,0,0,2,1,2,0,1,13
+"46","Ajay Aggarwal",7.5,"Salaried","Accountant",18,13,4,2,4,3,9,2,6,4,3,4,2,1,2,1,1,13
+"47","Khima nand sharma",8,"Self-Employed","self employed/automotive parts",22,13,6,7,4,3,9,2,6,4,3,4,2,1,2,0,0,13
+"48","Arif Malik",12,"Self-Employed","self employed/Trading of Electric & Electronic Items",18,12,6,3,4,3,9,2,6,4,3,4,1,1,2,0,0,12
+"49","Shyam Sundar Mishra",3,"Self-Employed + Salaried","Pujari/Employed in temple + Does Poojas freelance",18,16,6,3,2,3,5,2,6,4,0,4,2,0,1,1,0,11
+"50","Bipul Anand Goswami",9.8,"Self-Employed","Runs Auto-repair Workshop",19,13,6,3,4,3,9,2,6,3,0,4,2,0,1,0,1,11
+"51","Kunal Matto",13,"Salaried","Oversees Collection in American Express",16,7,6,5,4,3,9,2,6,4,3,4,2,1,3,0,1,10
+"52","Rahul Deen Mohd.",6.5,"Self-Employed","Provides construction machinery on rent ",15,9,6,4,4,3,5,2,6,3,2,0,2,0,3,0,1,11
+"53","Pramod Kumar",4.2,"Salaried","Hardware Engineer",14,8,6,2,4,3,9,2,6,4,3,4,1,1,2,0,1,11
+"54","Rakesh kumar",6,"Self-Employed","manufacturer of Leggings, Plazo, Pyjamas, Kids Pants",11,13,6,3,4,3,5,2,4,3,3,0,2,0,1,0,1,11
+"55","Ravi Rawat",4.75,"Self-Employed","Uber Driver",16,18,6,3,3,3,9,2,6,4,0,3,2,0,2,1,1,10
+"56","Sumit Atrey",15,"Self-Employed","Transportation",19,7,6,6,4,3,9,2,6,3,2,4,2,0,3,0,1,11
+"57","Devdutt Sharma",5,"Salaried","Accountant ",18,11,9,3,4,2,9,2,6,4,3,4,2,1,2,0,0,10
+"58","Nimish Ajmera",3,"Salaried","Working in export house",19,11,9,8,4,3,9,2,6,4,3,4,2,0,1,0,1,11
+"59","Saurabh Pal",5,"Salaried","Engineer",17,15,6,3,4,3,9,2,3,4,0,0,2,0,3,0,0,11
+"60","Mohit Wadhwa",20.5,"Self-Employed","Runs Gift Shop in GK selling fashion items",13,10,9,9,2,3,9,2,3,4,2,4,2,3,3,0,0,10
+"61","Dipesh Kumar Verma",1.7,"Salaried","Senior executive in tour and travel",18,18,9,3,2,0,9,2,6,4,3,4,2,3,3,0,0,10
+"62","Deepak Sharma",14,"Self-Employed","Manufacture of sewing machine",18,9,6,5,2,2,9,2,6,3,2,4,2,0,3,0,0,10
+"63","Khimanand sharma",5,"Self-Employed","self employed/automotive parts",22,13,6,7,4,3,9,2,6,4,3,4,2,1,2,0,1,10
+"64","Sunil Babu",13,"Salaried","HR manager",20,6,1,4,3,3,0,0,6,4,0,4,2,1,2,0,0,9
+"65","Saurabh Sharma",3.5,"Salaried","salaried/accountant",14,9,6,3,4,2,9,2,6,4,0,0,2,1,3,0,1,9
+"66","Ashish Bagri",9.3,"Salaried","HR Executive",20,14,6,4,3,2,9,2,6,6,3,4,2,0,2,0,1,8
+"67","Ravi Kumar",12,"Self-Employed","Retail of grocery/kirana items",16,7,9,8,4,3,9,2,6,4,2,4,2,3,2,0,0,8
+"68","Ajay Mishra",2.75,"Salaried","Supervisor with MCD",11,9,1,2,3,3,9,2,3,4,3,0,2,0,3,0,0,4
+"69","Shyam Lal Thakur",10,"Self-Employed","Wholesalers of Vegetables and fruits",13,9,1,4,2,2,9,2,6,1,3,4,2,1,1,0,0,8
+"70","Raj Kumar",4.25,"Self-Employed + Salaried","Working as Tailor + Manufature of artificial hair",17,9,6,3,4,3,5,2,3,4,3,4,2,0,2,0,0,8
+"71","Hemant sharma",15,"Self-Employed","self employed/Small eatery of Rice, Pulses, Pakoras etc.
+",21,13,6,3,4,3,9,2,6,3,2,4,2,1,3,0,0,8
+"72","Ahmad",4.5,"Self-Employed","trading of milk",17,13,6,2,4,3,9,2,6,3,2,0,2,0,3,2,0,8
+"73","Dheeraj Bhandari",3.5,"Salaried","gst consultant",12,7,9,3,4,3,9,0,6,2,0,0,2,1,3,1,1,7
+"74","Neeraj Agarwal",7,"Salaried","senior engineer",16,4,1,5,4,3,5,2,6,4,3,4,1,0,2,0,1,7
+"75","Anshul Saxena",16,"Self-Employed","Shop selling electrical items + rubber stamps",20,17,1,7,4,0,9,2,6,3,0,0,2,1,3,1,0,7
+"76","Vicky",9,"Salaried","Beldar in MCD",18,10,1,3,4,3,5,2,6,4,2,3,2,0,3,0,1,7
+"77","Nitin Singh",10.5,"Self-Employed + Salaried","Dairy business",15,6,7,5,4,3,5,0,3,6,2,4,2,0,3,1,1,7
+"78","Ashwani Kumar",9,"Self-Employed","Trading of nuts & bolts as well as trading of Milk",18,15,1,4,2,3,5,2,6,3,0,4,2,0,1,0,1,7
+"79","Om Prakash",3.5,"Self-Employed","self employed/ Work of Under Garments & Repairing of Sweing Machine",13,9,9,2,4,3,5,0,6,3,0,0,2,0,2,0,0,7
+"80","Binod Kumar",5,"Salaried","News Media",14,18,1,2,3,3,0,2,6,4,2,4,2,1,2,0,0,7
+"81","Manoj Kumar",7.75,"Salaried","Supervisor at Export house",13,13,7,3,4,3,9,0,3,4,3,4,2,0,3,2,0,7
+"82","Abhishek Bindal",10,"Salaried","Account Manager",18,10,1,8,4,3,9,2,6,4,3,4,1,1,3,1,0,6
+"83","Mahipal",15,"Self-Employed + Salaried","Dairy milk products + working at Denso",21,7,1,5,4,2,5,2,6,4,0,4,2,0,1,0,1,6
+"84","Gaurav Tomar",19,"Self-Employed","Dairy (milk products)",18,16,1,9,4,3,5,2,6,1,0,0,2,0,3,1,0,6
+"85","Mohd. Iqbal",10,"Self-Employed","self employed/manufacturer of water purifying plant",15,9,1,5,4,2,9,2,6,1,0,3,2,0,1,0,1,6
+"86","Varun Kumar",8,"Self-Employed","Self employed/trading of welding machinery",10,8,1,3,2,3,9,2,6,4,3,4,2,1,3,1,1,6
+"87","Rahul singhal",8,"Salaried","accounts manager",17,12,1,9,4,3,9,2,4,4,3,4,2,1,1,1,0,6
+"88","Anurodh Kumar",15,"Self-Employed","Freelancer - training of employees",14,10,1,5,0,0,9,2,6,0,0,4,2,1,2,0,0,6
+"89","Rajbeer Singh",15,"Salaried","PGT teacher",16,8,1,7,4,2,9,2,6,4,2,4,2,0,1,0,0,6
+"90","Ashish Eric James",12,"Self-Employed","Immigration Consultancy",18,5,7,9,3,2,9,2,3,3,3,4,2,0,2,1,0,6
+"91","Krishna Kumar",9,"Self-Employed + Salaried","Working as teacher + brother has bike repair shop",8,9,1,5,2,2,9,2,3,1,0,3,2,0,3,2,0,6
+"92","Ashish Chibber",3.5,"Salaried","sales manager in Kamson Financial Services",11,10,9,5,3,3,9,2,3,2,3,4,2,1,2,1,0,5
+"93","Jitin Gera",12.5,"Salaried","Service Engineer",15,10,9,5,4,2,5,2,3,4,2,4,1,1,3,0,0,5
+"94","Khushbuddin",5,"Self-Employed","Tailoring",12,9,9,4,4,3,9,2,3,1,3,4,2,0,2,3,0,5
+"95","Narendra Dev Singh",13.75,"Self-Employed","Footwear Shop",10,5,1,6,4,3,9,2,3,3,0,0,2,1,1,0,1,5
+"96","Pankaj Pahuja",8.5,"Self-Employed","Trading of garments",19,9,1,5,4,3,9,2,6,3,3,4,2,1,3,1,1,5
+"97","Sher Singh",12,"Self-Employed","self employed/trading of milk",21,10,9,4,4,3,9,2,6,3,2,4,2,0,3,2,1,5
+"98","Urmila",3,"Self-Employed","self employed/trading of ladies garment",13,13,1,4,4,3,9,2,6,3,3,0,1,1,2,1,1,4
+"99","Vinod Kumar",12,"Self-Employed","self employed/manufacturer and trading of patyala suits and gaown",21,8,6,3,2,1,9,2,6,3,3,4,2,0,2,0,0,4
+"100","Rakesh Kataria",6.5,"Salaried","asst branch manager in share market equity",15,7,4,3,2,2,9,2,3,4,3,4,2,1,2,0,1,4
+"101","Sagar Dawar",15,"Self-Employed","Event planner",14,9,9,5,2,2,9,2,3,3,0,4,1,0,3,1,1,4
+"102","Munish Kumar",12,"Salaried","Business Support Manager",18,10,6,5,4,3,9,2,6,4,3,4,2,0,3,2,0,4
+"103","Sandeep Pandey",10,"Salaried","Supervisor at Pvt. Ltd.",12,12,1,5,4,3,5,2,6,2,0,0,2,1,3,0,1,4
+"104","Ajay Kumar",6,"Salaried","accountant",14,10,9,2,4,3,5,2,6,4,3,3,2,1,3,1,0,3
+"105","Shashi Kumar",18,"Self-Employed","Sports Equipment Store",19,7,6,6,4,3,9,2,3,4,0,4,2,0,3,1,0,2
+"106","Amit Goel",20,"Self-Employed","self employed/trading of atta",21,15,8,9,4,3,0,2,6,3,0,0,2,1,2,0,0,2
+"107","Sumit Singhal",10,"Self-Employed","Money Transfer/Recharges",13,9,6,4,4,2,5,2,6,3,0,4,2,1,2,0,0,2
+"108","Vikrant Kumar",9,"Salaried","Video Editor",14,12,6,4,4,3,9,2,6,4,0,4,2,0,3,1,0,2
+"109","Ritesh Chaudhary",7.5,"Self-Employed","Exhibition Work for Hilton India",15,9,6,4,4,3,9,2,6,3,2,4,2,1,2,1,0,1
+"110","Munish Kumar",3.5,"Salaried","Business Support Manager",10,10,6,5,4,2,9,2,6,4,3,4,2,0,3,2,0,1
+"111","Sumit Nain",18,"Self-Employed","Paints & Chemicals",22,14,9,6,4,3,5,2,6,4,3,4,1,0,3,1,0,1
+"112","Ashish Chibber",4,"Self-Employed + Salaried","sales manager in Kamson Financial Services",11,10,9,5,3,3,9,2,3,2,3,4,2,1,2,2,0,1

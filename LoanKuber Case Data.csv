@@ -1,0 +1,114 @@
+Customer Name,S No,LAN No.,Sanctioned Loan Amount (in Laksh INR),Salaried/Self-Employed,Profession,Total Property Score(out of 36),Total Income Score(out of 24),Total CIBIL Score(out of 18),Total Banking Score(out of 9),Total Demographic Score(out of 6),Property Chain Score,Market Value of Property Score,Length of Stay Score,Last Registered Book 1 Document Score,Technical Deviation Score,Locality Development Score,Monthly Household Income Score,Stability Score,Proof of Income Score,Actual CIBIL Score Score,Default Track Score,Number of Enquiries Score,ABB/EMI Score,Average Monthly Credit Score,Number of Bounces Score,Family Score,Age Score,Number of Financial Co-Applicants,No. of bounces,No. of presentations(till Feb '19)
+Nishu Tayal,1,LKZ000001NishuTaya010816,5.5,Salaried,Teacher in DU,24,11,4,2,3,7,5,4,3,5,0,6,3,2,2,2,0,0,0,2,0,3,1,1,16
+Pradeep Kumar,2,LKZ000002PradeepKumar300916,7,Salaried,khalasi,19,11,15,8,2,4,3,4,3,5,0,4,3,4,10,5,0,2,4,2,1,1,1,0,29
+Tej Narayan Rai,3,LKZ000003Rai300916,7.5,Salaried,MTNL,25,13,15,5,1,4,3,4,3,9,2,4,3,6,10,5,0,0,3,2,0,1,2,1,29
+Dipesh Kumar Verma,4,LKZ000004Verma301016,7.3,Salaried,Senior executive in tour and travel company,30,18,18,8,6,9,3,4,3,9,2,8,6,4,10,5,3,2,4,2,3,3,0,1,28
+Harish Sabharwal,5,LKZ000005Harish301216,8,Salaried,Computer Operator,24,12,13,6,2,4,3,3,3,9,2,4,6,2,8,5,0,0,4,2,1,1,2,1,26
+Vijender Kumar,6,LKZ000006VijenderK300117,10,Salaried,Senior PDMS Designer,25,20,9,9,3,9,3,3,3,5,2,10,6,4,,,,3,4,2,1,2,0,0,17
+K.R Sharma,7,LKZ000007Sharma300117,9.3,Salaried,Upper Division Clerk,30,24,18,9,1,6,7,3,3,9,2,12,6,6,10,5,3,3,4,2,0,1,0,0,25
+Prashant sharma,8,LKZ000008sharma010217,8,Salaried,salaried/deputy manager,23,20,15,9,3,4,4,2,2,9,2,10,4,6,10,5,0,3,4,2,1,2,0,1,10
+Rachit,9,LKZ000009RachitSha100317,9,Self-Employed,Advertising,29,16,18,9,5,6,6,3,3,9,2,9,3,4,10,5,3,3,4,2,3,2,0,1,17
+Sunil Kumar,10,LKZ000010SUNILKUMAR100317,6,Salaried,Assistant Manager in Logistics Company,30,14,5,9,3,9,3,4,3,9,2,4,6,4,1,4,0,3,4,2,1,2,1,1,23
+Anil Kumar,11,LKZ000011AnilKumar150317	,3.29,Self-Employed,Shop selling cleaning items,27,13,18,9,1,9,9,4,3,0,2,4,6,3,10,5,3,3,4,2,0,1,1,1,23
+Bakshish Kaur,12,LKZ000012BakshishKaur010417,4.5,Salaried,Staff Nurse,28,11,18,6,4,1,9,4,3,9,2,4,3,4,10,5,3,0,4,2,1,3,1,1,22
+Santosh Kumar Mishra,13,LKZ000013MISHRA210417,5,Salaried,Sales and Service Manager,23,11,18,8,2,6,3,4,3,5,2,4,3,4,10,5,3,3,4,1,1,1,0,0,22
+Himanshu Akarnia,14,LKZ000014HimanshuAkarnia230517,9.25,Salaried,Manager in Info Edge India,23,14,18,9,3,1,4,4,3,9,2,4,6,4,10,5,3,3,4,2,1,2,1,0,21
+Jitender Singh,15,LKZ000015Yadav020617,7,Self-Employed,Manpower Service Provider,29,13,18,9,3,9,2,4,3,9,2,6,3,4,10,5,3,3,4,2,1,2,0,0,21
+Kaushlender Parsad,16,LKZ000016KAUSHALENDRAPRASAD190,8.5,Self-Employed,Manufacturing of Printing work,29,13,9,9,1,9,3,3,3,9,2,6,3,4,,,,3,4,2,0,1,0,0,19
+Ashish sharma,17,LKZ000017AshishSharma190717,5,Self-Employed,Atta Chakki,28,19,13,9,2,6,5,3,3,9,2,10,6,3,8,5,0,3,4,2,0,2,1,1,19
+Rajkumar,18,LKZ000018RajKumar200717	,5,Salaried,Tailor,23,13,14,2,4,7,2,4,3,5,2,4,6,3,7,5,2,0,0,2,1,3,0,1,19
+Anjani kumar pandey,19,LKZ000019PANDEY250717,9,Salaried,Senior Accountant,26,16,15,9,3,6,2,4,3,9,2,6,6,4,10,5,,3,4,2,1,2,0,0,19
+Dinesh Kumar,20,LKZ000021DINESHKUM310817,5.5,Self-Employed,Document Writting,26,18,9,5,3,9,3,4,3,5,2,8,6,4,,,,0,4,1,1,2,1,1,18
+Neel Mani,21,LKZ000022SHUKLA300817,15,Salaried,salaried/IT,28,22,8,9,4,6,4,4,3,9,2,12,4,6,5,3,0,3,4,2,1,3,1,1,18
+Harbans Singh,22,LKZ000023HARBANSSI310817,18,Salaried,Teacher in DU,32,22,13,9,4,9,5,4,3,9,2,12,6,4,5,5,3,3,4,2,1,3,2,1,10
+Shubham Singh,23,LKZ000024SHUBHAMSINGH240817,7,Self-Employed,self employed/holiday package servce provider,24,22,12,9,3,4,3,3,3,9,2,12,6,4,7,3,2,3,4,2,0,3,1,1,18
+Naresh kumar thakur,24,LKZ000025NARESHTHA080917,4,Self-Employed,interior decorator and carpenter work,32,19,18,4,2,9,5,4,3,9,2,10,6,3,10,5,3,2,0,2,1,1,1,1,17
+Mohd tarique,25,LKZ000026MOHDTARIQ120917        ,6.5,Self-Employed,Moulding Work,30,11,18,8,3,6,6,4,3,9,2,4,3,4,10,5,3,2,4,2,1,2,0,1,17
+Azamuddin,26,LKZ000027AZIMUDDIN200917,3,Self-Employed,Printing/Graphic Designing,31,13,9,5,2,9,4,4,3,9,2,4,6,3,,,,3,0,2,0,2,0,0,17
+Baljeet Singh Matharu,27,LKZ000028BALJEETMA220917,1.7,Salaried,Senior Executive in Private Firm,25,11,16,8,4,4,3,4,3,9,2,4,3,4,8,5,3,3,3,2,1,3,1,0,8
+Rakesh Kaul,28,LKZ000029RAKESHKAUL050917,12,Salaried,asst manager in healthcare firm,28,16,13,9,2,6,4,4,3,9,2,6,6,4,5,5,3,3,4,2,1,1,1,0,17
+Shobit Rastogi,29,LKZ000030SHOBHITRA290917,6.5,Self-Employed,Wholesale supply of electrical goods,29,20,5,9,3,6,5,4,3,9,2,10,6,4,1,2,2,3,4,2,1,2,0,0,17
+Amir Khan,30,LKZ000031AMIRKHAN041017,10.4,Salaried,business executive in healthcare ,24,18,18,8,4,6,3,2,2,9,2,8,6,4,10,5,3,2,4,2,1,3,1,0,17
+Rakesh Gaur,31,LKZ000032RakeshGau131017,10.5,Salaried,Manager in Supertech Ltd,27,16,10,6,5,4,6,3,3,9,2,8,4,4,5,5,0,0,4,2,3,2,0,1,16
+Sanjay Kumar Joshi,32,LKZ000033SANJAYJOSHI131017,9.43,Salaried,salaried/deputy general manager,28,18,16,8,2,6,4,4,3,9,2,8,6,4,8,5,3,3,3,2,1,1,0,0,16
+Mayank Talwar,33,LKZ000034MAYANKTALWAR241017,9.5,Salaried,Senior Relationship Manager icici securities ltd,30,13,18,6,4,6,6,4,3,9,2,6,3,4,10,5,3,0,4,2,1,3,1,1,16
+Inderjeet Singh,34,LKZ000035INDERJEETSINGH251017	,8,Self-Employed,Providing Cab Facility,26,13,18,9,4,6,3,3,3,9,2,6,3,4,10,5,3,3,4,2,1,3,1,0,0
+Ravish Rastogi,35,LKZ000036RAVISHRASTOGI021117,6.1,Self-Employed,Garments,28,11,9,5,2,9,3,3,2,9,2,4,3,4,,,,3,0,2,1,1,0,0,15
+Nimish Ajmera,36,LKZ000037NIMISHAJM031117,10,Salaried,Working in export house,35,19,11,8,1,9,8,4,3,9,2,9,6,4,7,2,2,2,4,2,0,1,0,1,16
+Anurag Parkash Ray,37,LKZ000038ANURAGRAY151117,3.5,Salaried,Asscoiate in Private Firm,21,15,16,4,4,6,2,4,2,5,2,8,3,4,8,5,3,2,0,2,1,3,0,0,15
+Manoj Kumar Jha,38,LKZ000039MANOJJHA231117,5,Salaried,Supervisor in Kanishk Export,26,10,18,5,1,6,2,4,3,9,2,0,6,4,10,5,3,0,3,2,0,1,0,1,15
+pankaj singh,39,LKZ000040PANKAJSIN011217,5.5,Self-Employed,self employed/trading and repairing of all type mobile,30,10,18,7,4,9,3,4,3,9,2,0,6,4,10,5,3,2,3,2,1,3,1,0,15
+Kalawati,40,LKZ000041Kalawati011217	,1.25,Salaried,Nurse,25,8,9,4,2,4,3,4,3,9,2,0,6,2,,,,2,0,2,1,1,1,0,15
+Dev Mani tiwari,41,LKZ000042DevTiwari041217,3.5,Self-Employed,"self employed/Trading of Pan ,Gutka and Sarres",28,19,9,9,3,9,2,4,2,9,2,12,4,3,,,,3,4,2,1,2,0,0,15
+Kripal Singh,42,LKZ000043Kirpalsin061217,13,Salaried,Northern Railways,29,16,9,9,3,6,9,4,3,5,2,6,6,4,,,,3,4,2,0,3,1,0,14
+Sudhir Chadhary,43,LKZ000044SUDHIRCHA191217,10,Salaried,DGM,30,20,9,9,3,6,6,4,3,9,2,10,6,4,,,,3,4,2,1,2,1,1,14
+Daya Ram,44,LKZ000045DAYARAM221217	,8.5,Salaried,asst. manager in Air india,29,18,10,7,1,9,5,2,2,9,2,8,6,4,5,2,3,2,3,2,0,1,1,0,14
+Ravinder Singh,45,LKZ000046RAVINDERS180118,7,Salaried,Clerk in office of Advocate,31,13,9,2,3,9,4,4,3,9,2,6,3,4,,,,0,0,2,1,2,0,1,13
+Ajay Aggarwal,46,LKZ000047AJAYAGARW220118,7.5,Salaried,Accountant,24,18,13,9,3,4,2,4,3,9,2,8,6,4,8,5,0,3,4,2,1,2,1,1,13
+Khima nand sharma,47,LKZ000048KHIMASHAR080118,8,Self-Employed,self employed/automotive parts,31,22,13,9,3,6,7,4,3,9,2,12,6,4,8,5,0,3,4,2,1,2,0,0,13
+Arif Malik,48,LKZ000049ARIFMALIK060218,12,Self-Employed,self employed/Trading of Electric & Electronic Items,27,18,12,8,3,6,3,4,3,9,2,8,6,4,7,5,0,3,4,1,1,2,0,0,12
+Shyam Sundar Mishra,49,LKZ000050SHYAMSUND230218,3,Self-Employed + Salaried,Pujari/Employed in temple + Does Poojas freelance,21,18,16,6,1,6,3,2,3,5,2,8,6,4,8,5,3,0,4,2,0,1,1,0,11
+Bipul Anand Goswami,50,LKZ000051BIPULGOSW280218,9.8,Self-Employed,Runs Auto-repair Workshop,27,19,13,6,1,6,3,4,3,9,2,10,6,3,8,5,0,0,4,2,0,1,0,1,11
+Kunal Matto,51,LKZ000052kunalmatt140318,13,Salaried,Oversees Collection in American Express,29,16,7,9,4,6,5,4,3,9,2,6,6,4,2,5,0,3,4,2,1,3,0,1,10
+Rahul Deen Mohd.,52,LKZ000053Rahul020418,6.5,Self-Employed,Provides construction machinery on rent ,24,15,9,4,3,6,4,4,3,5,2,6,6,3,,,,2,0,2,0,3,0,1,11
+Pramod Kumar,53,LKZ000054PRAMODKUM020418,4.2,Salaried,Hardware Engineer,26,14,8,8,3,6,2,4,3,9,2,4,6,4,5,3,0,3,4,1,1,2,0,1,11
+Rakesh kumar,54,LKZ000055RAKESHKUM310318,6,Self-Employed,"manufacturer of Leggings, Plazo, Pyjamas, Kids Pants",23,11,13,5,1,6,3,4,3,5,2,4,4,3,8,5,0,3,0,2,0,1,0,1,11
+Ravi Rawat,55,LKZ000056RAVIRAWAT310318,4.75,Self-Employed,Uber Driver,26,16,18,5,2,6,3,3,3,9,2,6,6,4,10,5,3,0,3,2,0,2,1,1,10
+Sumit Atrey,56,LKZ000057SUMITATRE020418,15,Self-Employed,Transportation,30,19,7,8,3,6,6,4,3,9,2,10,6,3,5,2,0,2,4,2,0,3,0,1,11
+Devdutt Sharma,57,LKZ000058DevduttSharma030418,5,Salaried,Accountant ,29,18,11,9,3,9,3,4,2,9,2,8,6,4,7,4,0,3,4,2,1,2,0,0,10
+Nimish Ajmera,58,LKZ000059NIMISHAJMERA030418,3,Salaried,Working in export house,35,19,11,9,1,9,8,4,3,9,2,9,6,4,7,2,2,3,4,2,0,1,0,1,11
+Saurabh Pal,59,LKZ000060SaurabhPa030418,5,Salaried,Engineer,27,17,15,2,3,6,3,4,3,9,2,10,3,4,7,5,3,0,0,2,0,3,0,0,11
+Mohit Wadhwa,60,LKZ000061MohitWadh060418,20.5,Self-Employed,Runs Gift Shop in GK selling fashion items,34,13,10,8,6,9,9,2,3,9,2,6,3,4,5,5,0,2,4,2,3,3,0,0,10
+Dipesh Kumar Verma,61,LKZ000062DipeshVerma190418,1.7,Salaried,Senior executive in tour and travel,25,18,18,9,6,9,3,2,0,9,2,8,6,4,10,5,3,3,4,2,3,3,0,0,10
+Deepak Sharma,62,LKZ000063DeepakSharma010518	,14,Self-Employed,Manufacture of sewing machine,26,18,9,8,3,6,5,2,2,9,2,9,6,3,,,,2,4,2,0,3,0,0,10
+Khimanand sharma,63,LKZ000064KhimaSharma010518,5,Self-Employed,self employed/automotive parts,31,22,13,9,3,6,7,4,3,9,2,12,6,4,8,5,0,3,4,2,1,2,0,1,10
+Sunil Babu,64,LKZ000065SUNILBABU030518,13,Salaried,HR manager,11,20,6,6,3,1,4,3,3,0,0,10,6,4,3,1,2,0,4,2,1,2,0,0,9
+Saurabh Sharma,65,LKZ000066saurabhsh190518,3.5,Salaried,salaried/accountant,26,14,9,2,4,6,3,4,2,9,2,4,6,4,,,,0,0,2,1,3,0,1,9
+Ashish Bagri,66,LKZ000067ashishbag050618,9.3,Salaried,HR Executive,26,20,14,9,2,6,4,3,2,9,2,8,6,6,7,5,2,3,4,2,0,2,0,1,8
+Ravi Kumar,67,LKZ000068RaviKumar310518,12,Self-Employed,Retail of grocery/kirana items,35,16,7,8,5,9,8,4,3,9,2,6,6,4,2,5,0,2,4,2,3,2,0,0,8
+Ajay Mishra,68,LKZ000069AjayMishr310518,2.75,Salaried,Supervisor with MCD,20,11,9,5,3,1,2,3,3,9,2,4,3,4,,,,3,0,2,0,3,0,0,4
+Shyam Lal Thakur,69,LKZ000070SHYAMLALT310518,10,Self-Employed,Wholesalers of Vegetables and fruits,20,13,9,9,2,1,4,2,2,9,2,6,6,1,,,,3,4,2,1,1,0,0,8
+Raj Kumar,70,LKZ000071Rajkumar310518,4.25,Self-Employed + Salaried,Working as Tailor + Manufature of artificial hair,23,17,9,9,2,6,3,4,3,5,2,10,3,4,,,,3,4,2,0,2,0,0,8
+Hemant sharma,71,LKZ000073HEMANTSHA310518,15,Self-Employed,"self employed/Small eatery of Rice, Pulses, Pakoras etc.
+",27,21,13,8,4,6,3,4,3,9,2,12,6,3,8,5,0,2,4,2,1,3,0,0,8
+Ahmad,72,LKZ000074Ahmad250618,4.5,Self-Employed,trading of milk,26,17,13,4,3,6,2,4,3,9,2,8,6,3,5,5,3,2,0,2,0,3,2,0,8
+Dheeraj Bhandari,73,LKZ000087dheerajbh060718,3.5,Salaried,gst consultant,28,12,7,2,4,9,3,4,3,9,0,4,6,2,2,2,3,0,0,2,1,3,1,1,7
+Neeraj Agarwal,74,LKZ000088NEERAJAGA060718,7,Salaried,senior engineer,20,16,4,8,2,1,5,4,3,5,2,6,6,4,2,2,0,3,4,1,0,2,0,1,7
+Anshul Saxena,75,LKZ000089AnshulSax070718	,16,Self-Employed,Shop selling electrical items + rubber stamps,23,20,17,2,4,1,7,4,0,9,2,11,6,3,10,5,2,0,0,2,1,3,1,0,7
+Vicky,76,LKZ000090VICKY070718,9,Salaried,Beldar in MCD,18,18,10,7,3,1,3,4,3,5,2,8,6,4,5,2,3,2,3,2,0,3,0,1,7
+Nitin Singh,77,LKZ000091NitinSing070718,10.5,Self-Employed + Salaried,Dairy business,24,15,6,8,3,7,5,4,3,5,0,6,3,6,2,2,2,2,4,2,0,3,1,1,7
+Ashwani Kumar,78,LKZ000092AshwaniKu070718,9,Self-Employed,Trading of nuts & bolts as well as trading of Milk,17,18,15,6,1,1,4,2,3,5,2,9,6,3,8,4,3,0,4,2,0,1,0,1,7
+Om Prakash,79,LKZ000093OmPrakash250718,3.5,Self-Employed,self employed/ Work of Under Garments & Repairing of Sweing Machine,23,13,9,2,2,9,2,4,3,5,0,4,6,3,,,,0,0,2,0,2,0,0,7
+Binod Kumar,80,LKZ000094binodkuma270718,5,Salaried,News Media,11,14,18,8,3,1,2,3,3,0,2,4,6,4,10,5,3,2,4,2,1,2,0,0,7
+Manoj Kumar,81,LKZ000095manojkuma030818,7.75,Salaried,Supervisor at Export house,26,13,13,9,3,7,3,4,3,9,0,6,3,4,7,3,3,3,4,2,0,3,2,0,7
+Abhishek Bindal,82,LKZ000096AbhishekB070818,10,Salaried,Account Manager,27,18,10,8,4,1,8,4,3,9,2,8,6,4,5,5,0,3,4,1,1,3,1,0,6
+Mahipal,83,LKZ000097MAHIPAL070818,15,Self-Employed + Salaried,Dairy milk products + working at Denso,19,21,7,6,1,1,5,4,2,5,2,11,6,4,5,2,0,0,4,2,0,1,0,1,6
+Gaurav Tomar,84,LKZ000098Gauravtom070818,19,Self-Employed,Dairy (milk products),24,18,16,2,3,1,9,4,3,5,2,11,6,1,8,5,3,0,0,2,0,3,1,0,6
+Mohd. Iqbal,85,LKZ000099Mohd.Iqba070818	,10,Self-Employed,self employed/manufacturer of water purifying plant,23,15,9,5,1,1,5,4,2,9,2,8,6,1,,,,0,3,2,0,1,0,1,6
+Varun Kumar,86,LKZ000100varunkuma040918,8,Self-Employed,Self employed/trading of welding machinery,20,10,8,9,4,1,3,2,3,9,2,0,6,4,5,3,0,3,4,2,1,3,1,1,6
+Rahul singhal,87,LKZ000101Rahulsing040918,8,Salaried,accounts manager,28,17,12,9,2,1,9,4,3,9,2,9,4,4,7,5,0,3,4,2,1,1,1,0,6
+Anurodh Kumar,88,LKZ000102AnurodhKu060918,15,Self-Employed,Freelancer - training of employees,17,14,10,6,3,1,5,0,0,9,2,8,6,0,5,5,0,0,4,2,1,2,0,0,6
+Rajbeer Singh,89,LKZ000103RAJBEERSI050918,15,Salaried,PGT teacher,25,16,8,8,1,1,7,4,2,9,2,6,6,4,3,5,0,2,4,2,0,1,0,0,6
+Ashish Eric James,90,LKZ000104AshishJam060918,12,Self-Employed,Immigration Consultancy,32,18,5,9,2,7,9,3,2,9,2,12,3,3,1,4,0,3,4,2,0,2,1,0,6
+Krishna Kumar,91,LKZ000105krishnakumar060918	,9,Self-Employed + Salaried,Working as teacher + brother has bike repair shop,21,8,9,5,3,1,5,2,2,9,2,4,3,1,5,4,0,0,3,2,0,3,2,0,6
+Ashish Chibber,92,LKZ000106Ashishchi130918,3.5,Salaried,sales manager in Kamson Financial Services,31,11,10,9,3,9,5,3,3,9,2,6,3,2,5,5,0,3,4,2,1,2,1,0,5
+Jitin Gera,93,LKZ000115JITINGERA061018,12.5,Salaried,Service Engineer,27,15,10,7,4,9,5,4,2,5,2,8,3,4,5,5,0,2,4,1,1,3,0,0,5
+Khushbuddin,94,LKZ000116khushbudd061018,5,Self-Employed,Tailoring,31,12,9,9,2,9,4,4,3,9,2,8,3,1,,,,3,4,2,0,2,3,0,5
+Narendra Dev Singh,95,LKZ000117narendradevsingh061018,13.75,Self-Employed,Footwear Shop,25,10,5,2,2,1,6,4,3,9,2,4,3,3,3,2,0,0,0,2,1,1,0,1,5
+Pankaj Pahuja,96,LKZ000119PankajPah061018,8.5,Self-Employed,Trading of garments,24,19,9,9,4,1,5,4,3,9,2,10,6,3,,,,3,4,2,1,3,1,1,5
+Sher Singh,97,LKZ000120SherSingh061018,12,Self-Employed,self employed/trading of milk,31,21,10,8,3,9,4,4,3,9,2,12,6,3,7,3,0,2,4,2,0,3,2,1,5
+Urmila,98,LKZ000122URMILA,3,Self-Employed,self employed/trading of ladies garment,23,13,13,4,3,1,4,4,3,9,2,4,6,3,5,5,3,3,0,1,1,2,1,1,4
+Vinod Kumar,99,LKZ000123VINODKUMAR061118,12,Self-Employed,self employed/manufacturer and trading of patyala suits and gaown,23,21,8,9,2,6,3,2,1,9,2,12,6,3,5,3,0,3,4,2,0,2,0,0,4
+Rakesh Kataria,100,LKZ000124RakeshKat061118,6.5,Salaried,asst branch manager in share market equity,22,15,7,9,3,4,3,2,2,9,2,8,3,4,2,5,0,3,4,2,1,2,0,1,4
+Sagar Dawar,101,LKZ000125SagarDawar061118,15,Self-Employed,Event planner,29,14,9,5,3,9,5,2,2,9,2,8,3,3,,,,0,4,1,0,3,1,1,4
+Munish Kumar,102,LKZ000126MUNISHKUM061118,12,Salaried,Business Support Manager,29,18,10,9,3,6,5,4,3,9,2,8,6,4,5,5,0,3,4,2,0,3,2,0,4
+Sandeep Pandey,103,LKZ000127SandeepPandey061118,10,Salaried,Supervisor at Pvt. Ltd.,20,12,12,2,4,1,5,4,3,5,2,4,6,2,7,5,0,0,0,2,1,3,0,1,4
+Ajay Kumar,104,LKZ000128AJAYKUMAR301118,6,Salaried,accountant,25,14,10,8,4,9,2,4,3,5,2,4,6,4,5,5,0,3,3,2,1,3,1,0,3
+Shashi Kumar,105,LKZ000130Shashikumar241218,18,Self-Employed,Sports Equipment Store,30,19,7,6,3,6,6,4,3,9,2,12,3,4,7,0,0,0,4,2,0,3,1,0,2
+Amit Goel,106,LKZ000131AmitGoel040119,20,Self-Employed,self employed/trading of atta,26,21,15,2,3,8,9,4,3,0,2,12,6,3,10,5,0,0,0,2,1,2,0,0,2
+Sumit Singhal,107,LKZ000132SumitSinghal040119,10,Self-Employed,Money Transfer/Recharges,23,13,9,6,3,6,4,4,2,5,2,4,6,3,1,0,0,0,4,2,1,2,0,0,2
+Vikrant Kumar,108,LKZ000133VIKRANTKUMAR040119,9,Salaried,Video Editor,28,14,12,6,3,6,4,4,3,9,2,4,6,4,7,5,0,0,4,2,0,3,1,0,2
+Ritesh Chaudhary,109,LKZ000134RiteshChaudhary290119,7.5,Self-Employed,Exhibition Work for Hilton India,28,15,9,8,3,6,4,4,3,9,2,6,6,3,,,,2,4,2,1,2,1,0,1
+Munish Kumar,110,LKZ000135MunishKumar310119,3.5,Salaried,Business Support Manager,28,10,10,9,3,6,5,4,2,9,2,0,6,4,5,5,0,3,4,2,0,3,2,0,1
+Sumit Nain,111,LKZ000136SumitNain040219,18,Self-Employed,Paints & Chemicals,29,22,14,8,3,9,6,4,3,5,2,12,6,4,8,3,3,3,4,1,0,3,1,0,1
+Ashish Chibber,112,LKZ000137AshishChhibber060219,4,Self-Employed + Salaried,sales manager in Kamson Financial Services,31,11,10,9,3,9,5,3,3,9,2,6,3,2,5,5,0,3,4,2,1,2,2,0,1
